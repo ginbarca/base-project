@@ -1,0 +1,5 @@
+2022-04-27 16:59:43,181 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping [restartedMain] 8 mappings in 'requestMappingHandlerMapping'
+2022-04-27 16:59:43,318 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-04-27 16:59:43,346 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping [restartedMain] Patterns [/swagger-ui/] in 'viewControllerHandlerMapping'
+2022-04-27 16:59:43,360 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**, /swagger-ui.html, /swagger-ui/**] in 'resourceHandlerMapping'
+2022-04-27 16:59:43,365 DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
